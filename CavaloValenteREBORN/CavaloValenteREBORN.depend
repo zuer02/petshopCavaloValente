@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1625244393 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Animal.h"
+	"Interface.h"
+
+1624327139 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\animal.h
+
+1625071272 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\cliente.c
+	"Cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"Interface.h"
+
+1624327139 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\cliente.h
+
+1625244333 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\empregado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Empregado.h"
+	"Interface.h"
+
+1624327139 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\empregado.h
+
+1625244333 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Produto.h"
+	"Interface.h"
+
+1624327139 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\produto.h
+
+1624392293 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"Interface.h"
+	"Cliente.h"
+	"Animal.h"
+	"Produto.h"
+	"Servico.h"
+	"Empregado.h"
+	"Fornecedor.h"
+
+1624392293 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1625243456 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Interface.h"
+	"Cliente.h"
+	"Animal.h"
+	"Produto.h"
+	"Servico.h"
+	"Empregado.h"
+	"Fornecedor.h"
+
+1624325894 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\servico.h
+
+1624327139 c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\fornecedor.h
+
+1625244407 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\fornecedor.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Fornecedor.h"
+	"Interface.h"
+
+1625070443 source:c:\users\josué\documents\projetos codeblocks\cavalovalentereborn\servico.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"Servico.h"
+	"Interface.h"
+
